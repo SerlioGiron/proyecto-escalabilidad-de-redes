@@ -1,0 +1,47 @@
+Address,Packets,Bytes,Total Packets,Percent Filtered,Tx Packets,Tx Bytes,Rx Packets,Rx Bytes,Country,City,Latitude,Longitude,AS Number,AS Organization,AS Organization
+3.233.158.24,1,1888,27,3.7,0,0,1,1888,,,,,,"AS14618 Amazon.com, Inc.","AS14618 Amazon.com, Inc."
+13.107.5.91,1,518,23,4.35,0,0,1,518,,,,,,AS8068 Microsoft Corporation,AS8068 Microsoft Corporation
+13.107.6.158,1,980,33,3.03,0,0,1,980,,,,,,AS8068 Microsoft Corporation,AS8068 Microsoft Corporation
+13.107.136.10,6,5327,180,3.33,0,0,6,5327,,,,,,AS8075 Microsoft Corporation,AS8075 Microsoft Corporation
+13.107.138.10,2,1024,62,3.23,0,0,2,1024,,,,,,AS8075 Microsoft Corporation,AS8075 Microsoft Corporation
+13.107.139.11,1,517,40,2.5,0,0,1,517,,,,,,AS8068 Microsoft Corporation,AS8068 Microsoft Corporation
+13.107.246.41,2,3086,34,5.88,0,0,2,3086,,,,,,AS8075 Microsoft Corporation,AS8075 Microsoft Corporation
+13.107.253.41,2,2608,33,6.06,0,0,2,2608,,,,,,AS8075 Microsoft Corporation,AS8075 Microsoft Corporation
+20.42.73.27,2,1222,44,4.55,0,0,2,1222,,,,,,AS8075 Microsoft Corporation,AS8075 Microsoft Corporation
+20.50.73.4,2,835,52,3.85,0,0,2,835,,,,,,AS8075 Microsoft Corporation,AS8075 Microsoft Corporation
+23.50.112.225,1,2181,19,5.26,0,0,1,2181,,,,,,AS20940 Akamai International B.V.,AS20940 Akamai International B.V.
+31.13.67.52,2,1398,54,3.7,0,0,2,1398,,,,,,"AS32934 Facebook, Inc.","AS32934 Facebook, Inc."
+34.176.211.24,1,1878,30,3.33,0,0,1,1878,,,,,,AS396982 Google LLC,AS396982 Google LLC
+35.214.142.18,1,1846,28,3.57,0,0,1,1846,,,,,,AS19527 Google LLC,AS19527 Google LLC
+40.79.189.58,4,2444,118,3.39,0,0,4,2444,,,,,,AS8075 Microsoft Corporation,AS8075 Microsoft Corporation
+52.104.127.39,8,5000,172,4.65,0,0,8,5000,,,,,,AS8075 Microsoft Corporation,AS8075 Microsoft Corporation
+52.168.117.171,1,613,25,4,0,0,1,613,,,,,,AS8075 Microsoft Corporation,AS8075 Microsoft Corporation
+57.144.163.32,2,1424,54,3.7,0,0,2,1424,,,,,,"AS32934 Facebook, Inc.","AS32934 Facebook, Inc."
+104.18.9.76,1,2052,35,2.86,0,0,1,2052,,,,,,"AS13335 Cloudflare, Inc.","AS13335 Cloudflare, Inc."
+104.18.30.173,1,2075,24,4.17,0,0,1,2075,,,,,,"AS13335 Cloudflare, Inc.","AS13335 Cloudflare, Inc."
+142.250.64.162,2,2584,75,2.67,0,0,2,2584,,,,,,AS15169 Google LLC,AS15169 Google LLC
+142.250.64.196,6,7752,122,4.92,0,0,6,7752,,,,,,AS15169 Google LLC,AS15169 Google LLC
+142.250.195.163,1,1292,36,2.78,0,0,1,1292,,,,,,AS15169 Google LLC,AS15169 Google LLC
+142.250.217.174,4,5168,103,3.88,0,0,4,5168,,,,,,AS15169 Google LLC,AS15169 Google LLC
+142.250.217.193,2,2584,44,4.55,0,0,2,2584,,,,,,AS15169 Google LLC,AS15169 Google LLC
+142.250.217.194,2,2584,51,3.92,0,0,2,2584,,,,,,AS15169 Google LLC,AS15169 Google LLC
+142.250.217.202,1,1292,24,4.17,0,0,1,1292,,,,,,AS15169 Google LLC,AS15169 Google LLC
+142.250.217.238,3,5028,103,2.91,0,0,3,5028,,,,,,AS15169 Google LLC,AS15169 Google LLC
+142.250.217.246,1,1292,57,1.75,0,0,1,1292,,,,,,AS15169 Google LLC,AS15169 Google LLC
+142.251.35.238,1,1292,28,3.57,0,0,1,1292,,,,,,AS15169 Google LLC,AS15169 Google LLC
+157.240.233.60,2,1424,399,0.5,0,0,2,1424,,,,,,"AS32934 Facebook, Inc.","AS32934 Facebook, Inc."
+172.67.6.3,1,2111,50,2,0,0,1,2111,,,,,,"AS13335 Cloudflare, Inc.","AS13335 Cloudflare, Inc."
+172.217.2.195,2,2584,51,3.92,0,0,2,2584,,,,,,AS15169 Google LLC,AS15169 Google LLC
+172.217.2.206,1,1292,1470,0.07,0,0,1,1292,,,,,,AS15169 Google LLC,AS15169 Google LLC
+172.217.165.195,8,10336,209,3.83,0,0,8,10336,,,,,,AS15169 Google LLC,AS15169 Google LLC
+172.217.165.214,1,1292,264,0.38,0,0,1,1292,,,,,,AS15169 Google LLC,AS15169 Google LLC
+186.2.134.76,1,1292,1174,0.09,0,0,1,1292,,,,,,AS52262 Telefónica Celular S.A,AS52262 Telefónica Celular S.A
+186.2.134.77,3,3876,72996,0,0,0,3,3876,,,,,,AS52262 Telefónica Celular S.A,AS52262 Telefónica Celular S.A
+186.2.134.226,2,1450,156,1.28,0,0,2,1450,,,,,,AS52262 Telefónica Celular S.A,AS52262 Telefónica Celular S.A
+186.2.147.34,2,1450,164,1.22,0,0,2,1450,,,,,,AS52262 Telefónica Celular S.A,AS52262 Telefónica Celular S.A
+186.2.150.79,1,1292,4067,0.02,0,0,1,1292,,,,,,AS52262 Telefónica Celular S.A,AS52262 Telefónica Celular S.A
+192.168.0.15,96,107227,87594,0.11,96,107227,0,0,,,,,,N/A,N/A
+192.178.50.35,3,3876,173,1.73,0,0,3,3876,,,,,,AS15169 Google LLC,AS15169 Google LLC
+192.178.50.46,2,2584,57,3.51,0,0,2,2584,,,,,,AS15169 Google LLC,AS15169 Google LLC
+192.178.50.65,1,1292,155,0.65,0,0,1,1292,,,,,,AS15169 Google LLC,AS15169 Google LLC
+192.178.50.66,1,1292,31,3.23,0,0,1,1292,,,,,,AS15169 Google LLC,AS15169 Google LLC
